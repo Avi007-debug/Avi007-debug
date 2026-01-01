@@ -16,29 +16,35 @@
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-orange?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101010&color=f72585"/>
 </p>
 
-```python
-class AvishkarMore:
-    def __init__(self):
-        self.identity = {
-            "role": "Cybersecurity Engineering Student @ RVCE Bangalore",
-            "focus": ["AI/ML Systems", "Computer Vision", "Embedded Systems", "Secure Infrastructure"]
-        }
-        self.philosophy = "Build real-world, end-to-end systems with practical impact"
-        self.expertise = {
-            "domains": ["AI/ML", "Cybersecurity", "IoT", "Full-Stack Development"],
-            "approach": "Clean architecture meets engineering fundamentals"
-        }
-    
-    def currently_working_on(self):
-        return ["🧠 MoodVue", "🎯 PrepMate-AI", "🌱 SmartDrop", "🔐 IDS Systems"]
-```
+<!-- About Me Cards -->
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/student-male.png"/>
+<h3>👨‍🎓 Student</h3>
+<p><strong>Cybersecurity Engineering</strong><br/>RVCE Bangalore</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png"/>
+<h3>🤖 Focus Areas</h3>
+<p>AI/ML Systems • Computer Vision<br/>Embedded Systems • Secure Infrastructure</p>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png"/>
+<h3>💡 Philosophy</h3>
+<p><em>"Build real-world, end-to-end systems with practical impact"</em></p>
+</td>
+</tr>
+</table>
 
-<!-- Animated Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avi007-debug/Avi007-debug/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avi007-debug/Avi007-debug/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avi007-debug/Avi007-debug/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Current Projects Carousel -->
+<h3 align="center">⚡ Currently Working On</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-MoodVue-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯-PrepMate--AI-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌱-SmartDrop-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐-IDS_Systems-red?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -136,8 +142,68 @@ ML-based urban green-cover analysis using environmental indicators for canopy su
 - 📊 Geospatial visualization
 - 🔍 Predictive modeling
 - 🗺️ City-scale mapping
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-326CE5?style=for-the-badge&logo=qgis&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/UCHI)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 SmartSecure
+#### AI-Driven Intrusion Detection System
+<img src="https://img.shields.io/badge/Cybersecurity-ML-FF6B6B?style=flat-square&logo=security&logoColor=white"/> <img src="https://img.shields.io/badge/Network-Analysis-4ECDC4?style=flat-square&logo=wireshark&logoColor=white"/>
+
+Intelligent IDS leveraging machine learning algorithms to detect and classify network intrusions with high accuracy and minimal false positives.
+
+**Highlights:**
+- 🛡️ ML-powered anomaly detection
+- 📡 Real-time network traffic analysis
+- ⚠️ Multi-class threat classification
+- 📊 Attack pattern recognition & alerts
+- 🔍 Feature engineering from packet data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Security](https://img.shields.io/badge/Security-DC143C?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 NetChat
+#### Network-Based Real-Time Chat System
+<img src="https://img.shields.io/badge/Systems-Programming-A8E6CF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Network-Protocols-FFD93D?style=flat-square&logo=cisco&logoColor=white"/>
+
+Client-server chat system demonstrating CN & OS concepts. Built with TCP sockets and POSIX threads for concurrent multi-client communication.
+
+**Highlights:**
+- 🧵 POSIX threads for concurrent clients
+- 🔌 TCP/IP socket programming
+- 🔐 Mutex locks & synchronization
+- 💬 Real-time message broadcasting
+- 👥 User-labeled messaging
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
 <details>
-<summary><h2>🧩 More Projects (Click to Expand)</h2></summary>
+<summary><h2 align="center">🧩 More Projects (Click to Expand)</h2></summary>
 
 <div align="center">
 
@@ -156,55 +222,7 @@ ML-based urban green-cover analysis using environmental indicators for canopy su
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Intrusion Detection
-#### AI-Based Network Security
-<img src="https://img.shields.io/badge/Cybersecurity-ML-FF6B6B?style=flat-square&logo=security&logoColor=white"/> <img src="https://img.shields.io/badge/Network-Analysis-4ECDC4?style=flat-square&logo=wireshark&logoColor=white"/>
-
-ML-based intrusion detection identifying anomalous network activity with real-time threat classification.
-
-**Highlights:**
-- 🛡️ Anomaly detection
-- 📡 Traffic analysis
-- ⚠️ Threat identification
-- 📊 Attack pattern recognition
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Security](https://img.shields.io/badge/Security-DC143C?style=for-the-badge&logo=springsecurity&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Chat Server
-#### Multithreaded Real-Time
-<img src="https://img.shields.io/badge/Systems-Programming-A8E6CF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Network-Protocols-FFD93D?style=flat-square&logo=cisco&logoColor=white"/>
-
-Real-time chat server with socket programming, thread pools, and WebSocket communication.
-
-**Highlights:**
-- 🧵 Thread pool architecture
-- 🔌 TCP/UDP protocols
-- 🔐 Session management
-- 💬 Group & private chat
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
-
-## 🧩 Other Notable Projects
 
 <h2 align="center">🛠 Tech Arsenal</h2>
 
@@ -234,67 +252,11 @@ Real-time chat server with socket programming, thread pools, and WebSocket commu
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+### 🔐 Cybersecurity & Systems
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats Cards with Animation -->
-<p align="center">
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Animated Quote -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+systems+that+matter;One+commit+at+a+time+%F0%9F%9A%80;Open+to+collaboration+%F0%9F%A4%9D;Let's+build+something+amazing!" alt="Typing SVG" /></a>
-
-<!-- Social Links with Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/avishkarmore/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Avi007-debug">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
-<!-- Skills Interest Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_AI/ML_Research-Interested-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🔐_Cybersecurity-Collaborating-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/⚡_Embedded_Systems-Building-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🚀_Hackathons-Ready-red?style=flat-square"/>
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avi007-debug&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Avi007-debug?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Avi007-debug?label=Stars&style=for-the-badge&color=58A6FF&logo=github" alt="Stars"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avi007-debug&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/Network_Security-DC143C?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDS-FF4500?style=for-the-badge&logo=shield&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket_Programming-0078D4?style=for-the-badge&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/Multithreading-6DB33F?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -343,38 +305,99 @@ Real-time chat server with socket programming, thread pools, and WebSocket commu
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
-`ESP32` `Arduino` `Sensor Integration` `Firmware Development` `Real-Time Systems`
-
-**Backend & Web**  
-`Flask` `FastAPI` `Express.js` `React` `Next.js` `REST APIs` `GraphQL`
-
-**Databases**  
-`PostgreSQL` `MySQL` `SQLite` `Database Design` `Query Optimization`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Docker` `Linux` `AWS` `Firebase` `CI/CD`
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avi007-debug&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avi007-debug&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<!-- GitHub Stats Cards with Animation -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Avi007-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&fire_color=58A6FF&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Avi007-debug&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
 
----
+<!-- Language Stats -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi007-debug&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</p>
 
-## 🤝 Let's Connect
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi007-debug&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
-> *"Building systems that matter, one commit at a time"*
+<!-- Trophy Section -->
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
-- 🔗 **LinkedIn:** [linkedin.com/in/avishkarmore](https://www.linkedin.com/in/avishkarmore/)
-- 💻 **GitHub:** [github.com/Avi007-debug](https://github.com/Avi007-debug)
-- 📧 **Email:** [Your Email Here]
-- 🌐 **Portfolio:** [Your Portfolio Link]
+<div align="center">
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Open to collaborations** on AI/ML research, cybersecurity projects, embedded systems, and innovative hackathons.
+<!-- Animated Quote -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+systems+that+matter;One+commit+at+a+time+%F0%9F%9A%80;Open+to+collaboration+%F0%9F%A4%9D;Let's+build+something+amazing!" alt="Typing SVG" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Avi007-debug&color=58A6FF&style=flat-square&label=Profile+Views)
+<!-- Social Links with Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/avishkarmore/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Avi007-debug">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Collaboration Interests -->
+<h3 align="center">🎯 Open to Collaborations</h3>
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/brain.png"/><br/>
+<strong>AI/ML Research</strong><br/>
+<sub>Machine Learning • Computer Vision • NLP</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/security-checked.png"/><br/>
+<strong>Cybersecurity Projects</strong><br/>
+<sub>Network Security • Intrusion Detection</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/circuit.png"/><br/>
+<strong>Embedded Systems</strong><br/>
+<sub>IoT • ESP32 • Arduino • Robotics</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/rocket.png"/><br/>
+<strong>Hackathons</strong><br/>
+<sub>Innovation • Team Building • Rapid Development</sub>
+</td>
+</tr>
+</table>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avi007-debug&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Avi007-debug?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Avi007-debug?label=Stars&style=for-the-badge&color=58A6FF&logo=github" alt="Stars"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avi007-debug&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
