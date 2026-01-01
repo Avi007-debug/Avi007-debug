@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Avishkar%20More&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Engineer%20%7C%20AI/ML%20Specialist%20%7C%20System%20Architect&descSize=16&descAlignY=51"/>
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%9A%80;AI%2FML+%E2%80%A2+Computer+Vision+%E2%80%A2+Embedded+Systems;Cybersecurity+%E2%80%A2+IoT+%E2%80%A2+Full-Stack+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems;AI%2FML+%E2%80%A2+Computer+Vision+%E2%80%A2+Embedded+Systems;Cybersecurity+%E2%80%A2+IoT+%E2%80%A2+Full-Stack+Development" alt="Typing SVG" /></a>
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -16,23 +16,42 @@
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-orange?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101010&color=f72585"/>
 </p>
 
-<!-- About Me Cards -->
+<!-- About Me with Skills Showcase -->
 <table>
 <tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/student-male.png"/>
-<h3>👨‍🎓 Student</h3>
-<p><strong>Cybersecurity Engineering</strong><br/>RVCE Bangalore</p>
+<td width="50%" valign="top">
+
+### 👨‍🎓 About Me
+
+```yaml
+name: Avishkar More
+located_in: Bangalore, India
+education: Cybersecurity Engineering @ RVCE
+current_focus:
+  - AI/ML Systems & Computer Vision
+  - Embedded Systems & IoT
+  - Network Security & Threat Detection
+  - Full-Stack Development
+```
+
+**💡 Philosophy:**
+> *Build real-world, end-to-end systems with practical impact*
+
 </td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png"/>
-<h3>🤖 Focus Areas</h3>
-<p>AI/ML Systems • Computer Vision<br/>Embedded Systems • Secure Infrastructure</p>
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/code.png"/>
-<h3>💡 Philosophy</h3>
-<p><em>"Build real-world, end-to-end systems with practical impact"</em></p>
+<td width="50%" valign="top">
+
+### 📈 Quick Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avi007-debug&theme=radical" width="100%"/>
+</p>
+
+**⚡ Current Projects:**
+- 🧠 MoodVue - Real-time emotion detection
+- 🎯 PrepMate-AI - Interview training platform
+- 🌱 SmartDrop - AI irrigation system
+- 🔐 SmartSecure - Intrusion detection
+
 </td>
 </tr>
 </table>
@@ -314,6 +333,11 @@ Client-server chat system demonstrating CN & OS concepts. Built with TCP sockets
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Avi007-debug&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%"/>
+</p>
+
 <!-- GitHub Stats Cards with Animation -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Avi007-debug&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&fire_color=58A6FF&include_all_commits=true&count_private=true" />
@@ -325,10 +349,14 @@ Client-server chat system demonstrating CN & OS concepts. Built with TCP sockets
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi007-debug&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </p>
 
+<!-- Coding Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi007-debug&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
-<!-- Trophy Section -->
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <div align="center">
@@ -336,7 +364,7 @@ Client-server chat system demonstrating CN & OS concepts. Built with TCP sockets
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Animated Quote -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+systems+that+matter;One+commit+at+a+time+%F0%9F%9A%80;Open+to+collaboration+%F0%9F%A4%9D;Let's+build+something+amazing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+systems+that+matter;One+commit+at+a+time;Open+to+collaboration+%F0%9F%A4%9D;Let's+build+something+amazing!" alt="Typing SVG" /></a>
 
 <!-- Social Links with Icons -->
 <p align="center">
@@ -390,14 +418,17 @@ Client-server chat system demonstrating CN & OS concepts. Built with TCP sockets
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
+<!-- Coding GIF -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avi007-debug&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Footer Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
