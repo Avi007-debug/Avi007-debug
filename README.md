@@ -47,10 +47,10 @@ current_focus:
 </p>
 
 **⚡ Current Projects:**
-- 🧠 MoodVue - Real-time emotion detection
-- 🎯 PrepMate-AI - Interview training platform
-- 🌱 SmartDrop - AI irrigation system
-- 🔐 SmartSecure - Intrusion detection
+- 🔐 SmartSecure - AI-driven intrusion detection
+- 🏨 SmartStay - Full-stack hospitality platform
+- 🌳 UCHI - Urban canopy health analysis
+- 💬 NetChat - Real-time chat system
 
 </td>
 </tr>
@@ -59,10 +59,10 @@ current_focus:
 <!-- Current Projects Carousel -->
 <h3 align="center">⚡ Currently Working On</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠-MoodVue-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎯-PrepMate--AI-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌱-SmartDrop-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔐-IDS_Systems-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐-SmartSecure-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏨-SmartStay-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌳-UCHI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💬-NetChat-blueviolet?style=for-the-badge"/>
 </p>
 
 </div>
