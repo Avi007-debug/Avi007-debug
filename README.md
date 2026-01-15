@@ -191,6 +191,9 @@ Intelligent IDS leveraging machine learning algorithms to detect and classify ne
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-DC143C?style=for-the-badge&logo=springsecurity&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/)
+
+
 </td>
 <td width="50%" valign="top">
 
@@ -210,6 +213,9 @@ Client-server chat system demonstrating CN & OS concepts. Built with TCP sockets
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Netchat)
+
 
 </td>
 </tr>
