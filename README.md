@@ -166,7 +166,7 @@ ML-based urban green-cover analysis using environmental indicators for canopy su
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-326CE5?style=for-the-badge&logo=qgis&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/UCHI)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Urban_Canopy_Health_Index_UCHI)
 
 </td>
 </tr>
@@ -191,7 +191,7 @@ Intelligent IDS leveraging machine learning algorithms to detect and classify ne
 ![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-DC143C?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/SmartSecure)
 
 
 </td>
