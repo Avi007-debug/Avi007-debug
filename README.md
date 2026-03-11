@@ -46,13 +46,10 @@ current_focus:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avi007-debug&theme=radical" width="100%"/>
 </p>
 
-**⚡ Featured Projects:**
+**⚡ Top Projects:**
 - 🔐 SmartSecure — Multi-stage ML IDS
 - 🏨 SmartStay — AI-Powered PG Platform
-- 🌳 UCHI — Urban Canopy Health Index
-- 🎓 CatchUpX — Serverless AI Study Planner
 - 😊 MoodVue — Real-Time Emotion Detection
-- 💬 NetChat — Multi-Mode Chat System
 
 </td>
 </tr>
@@ -83,28 +80,21 @@ current_focus:
 
 <div align="center">
 
-<!-- Project Cards with Animations -->
+<!-- Project Cards -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔐 SmartSecure
-#### Multi-Stage ML Intrusion Detection System
-<img src="https://img.shields.io/badge/FastAPI-Scapy-FF6B6B?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/ML-CICIDS--2017-4ECDC4?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Scapy-4ECDC4?style=flat-square"/>
 
-Real-time IDS combining Scapy packet capture, bidirectional flow aggregation, two-stage Random Forest classifiers and SHAP explainability — serving live alerts to a React threat dashboard.
+Real-time multi-stage ML IDS — Scapy flow capture → two-stage Random Forest → SHAP explainability → live React alert dashboard.
 
-**Highlights:**
-- 🌊 Scapy sniffer with bidirectional flow aggregation (30s windows)
-- 🤖 Two-stage detection: normal filter → specialized attack classifiers
-- 🔍 SHAP explainability & context-aware mitigation advisor
-- ⚠️ Attack simulators: DoS/DDoS, portscan, bruteforce, web attacks
-- 📊 FastAPI backend + live React threat dashboard with severity tiers
+- 🌊 Bidirectional flow aggregation + CICIDS-2017 feature extraction
+- 🤖 Two-stage classifiers with SHAP mitigation advisor
+- ⚠️ Built-in attack simulators (DoS, portscan, bruteforce)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/SmartSecure)
 
@@ -112,22 +102,15 @@ Real-time IDS combining Scapy packet capture, bidirectional flow aggregation, tw
 <td width="50%" valign="top">
 
 ### 🏨 SmartStay
-#### AI-Powered PG Accommodation Platform
-<img src="https://img.shields.io/badge/Groq%20AI-llama--3.1-A8E6CF?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime-Supabase-FFD93D?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20AI-llama--3.1-A8E6CF?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-Realtime-FFD93D?style=flat-square&logo=supabase&logoColor=white"/>
 
-End-to-end PG accommodation platform with six AI features, anonymous real-time chat, multi-role dashboards and Row-Level Security — powered by Groq AI and Supabase.
+AI-powered PG platform with 6 AI features, anonymous real-time chat, multi-role dashboards and Supabase RLS.
 
-**Highlights:**
-- 🤖 6 AI features: recommendations, sentiment analysis, hidden-charges detector, travel time estimator, description generator, chatbot
-- 💬 Anonymous real-time chat & price/vacancy alert notifications
-- 🔐 Supabase RLS with User / Owner / Admin role authorization
-- 📊 AI-generated property descriptions and analytics dashboards
-- ⚡ React 18 + TypeScript + Tailwind + shadcn/ui + React Query
+- 🤖 6 AI modules: recommendations, sentiment, hidden-charges, chatbot & more
+- 💬 Anonymous real-time chat with price/vacancy alert notifications
+- 🔐 Row-Level Security with User / Owner / Admin roles
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/SmartStay)
 
@@ -138,22 +121,15 @@ End-to-end PG accommodation platform with six AI features, anonymous real-time c
 <td width="50%" valign="top">
 
 ### 🌳 UCHI
-#### Urban Canopy Health Index
-<img src="https://img.shields.io/badge/CV-HSV%20Segmentation-90EE90?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Geo-Leaflet%20Maps-87CEEB?style=flat-square&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-HSV%20CV-90EE90?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-GeoJSON-87CEEB?style=flat-square"/>
 
-Deterministic, training-free RGB computer-vision pipeline (HSV segmentation + pixel counting) that computes a reproducible Canopy Health Index and maps urban vegetation health on interactive Leaflet maps.
+Deterministic RGB CV pipeline computing a Canopy Health Index (CHI = 0.7×coverage + 0.3×greenness) visualized on interactive Leaflet maps.
 
-**Highlights:**
-- 🎨 CHI = 0.7×coverage + 0.3×greenness via HSV vegetation segmentation
-- 📍 Area-aware thresholds (city / campus / park) & temporal trend comparison
-- 🗺️ Leaflet maps with GeoJSON boundaries and color-graded CHI overlays
-- 🔄 Batch processing pipeline with CSV/JSON export endpoints
-- ☁️ Flask backend, Supabase storage, React + React Query dashboard
+- 🎨 Training-free HSV segmentation with area-aware thresholds
+- 🗺️ GeoJSON boundaries + color-graded CHI overlays
+- 🔄 Batch processing with CSV/JSON export API
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Urban_Canopy_Health_Index_UCHI)
 
@@ -161,22 +137,15 @@ Deterministic, training-free RGB computer-vision pipeline (HSV segmentation + pi
 <td width="50%" valign="top">
 
 ### 🎓 CatchUpX
-#### AI-Powered Personalized Study Planner
-<img src="https://img.shields.io/badge/AWS-Bedrock%20LLM-FF8B94?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-Lambda-6BCF7F?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Bedrock-Titan-FF8B94?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-Serverless-6BCF7F?style=flat-square&logo=awslambda&logoColor=white"/>
 
-Serverless learning platform that diagnoses knowledge gaps via diagnostic quizzes (7 grades × 3 subjects) and generates AI-crafted lessons, worked examples, 4 practice questions and 5-day study plans using AWS Bedrock.
+Serverless AI study planner — diagnoses gaps via quizzes (7 grades × 3 subjects) then generates lessons & 5-day plans via AWS Bedrock.
 
-**Highlights:**
-- 📝 Diagnostic quizzes across 7 grade levels × 3 subjects with concept gap analysis
-- 🤖 AWS Bedrock (Titan Text) generates lessons and 5-day study plans
-- ⚡ Serverless pipeline: React → API Gateway → Lambda → Bedrock (cost-aware)
-- 🔑 Supabase authentication and persistent quiz session storage
-- 📺 YouTube video recommendations and structured lesson/plan parsing
+- 📝 Per-concept gap analysis across grade levels
+- 🤖 Bedrock-generated lessons, examples & practice questions
+- ⚡ React → API Gateway → Lambda → Bedrock pipeline
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/catchupx)
 
@@ -187,22 +156,15 @@ Serverless learning platform that diagnoses knowledge gaps via diagnostic quizze
 <td width="50%" valign="top">
 
 ### 😊 MoodVue
-#### Real-Time Emotion & Mood Tracking from Video
-<img src="https://img.shields.io/badge/AI-DeepFace%20%2B%20OpenCV-FF6B6B?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Real--Time-Sessions-4ECDC4?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepFace-OpenCV-FF6B6B?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Real--Time-Sessions-4ECDC4?style=flat-square"/>
 
-Hackathon project that analyzes webcam video in real-time using DeepFace + OpenCV, aggregates per-session emotion trends and provides AI-driven relaxation suggestions — stored in Supabase.
+Real-time webcam emotion detection using DeepFace + OpenCV with session mood analytics, Recharts visualizations and AI wellness tips.
 
-**Highlights:**
-- 📹 Real-time emotion detection via DeepFace + OpenCV frame analysis
-- 📊 Session mood history, trend analytics and Recharts visualizations
-- 🤖 AI-powered relaxation and wellness tips per mood state
-- 🔐 Supabase authentication with persistent session tracking
-- 🐳 Containerized services (Docker) for Render / Vercel deployment
+- 📹 Per-frame emotion labels aggregated into session trend stats
+- 📊 Mood history charts & AI-powered relaxation suggestions
+- 🐳 Dockerized services deployed on Render / Vercel
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/MoodVue)
 
@@ -210,22 +172,15 @@ Hackathon project that analyzes webcam video in real-time using DeepFace + OpenC
 <td width="50%" valign="top">
 
 ### 💬 NetChat
-#### Multi-Mode Multithreaded Chat System
-<img src="https://img.shields.io/badge/Systems-C%20POSIX%20IPC-A8E6CF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Web-Socket.IO%20%2B%20JWT-FFD93D?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-POSIX%20IPC-A8E6CF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-JWT%20%2B%20AES--256-FFD93D?style=flat-square&logo=socketdotio&logoColor=white"/>
 
-Multi-flavor chat showcasing OS & networking: C implementations (pthreads, shared memory, message queues, semaphores) alongside a Node.js/Socket.IO web server with JWT auth and AES-256 message encryption.
+Multi-mode chat: C servers using pthreads/IPC + a Node.js/Socket.IO web server with JWT auth and AES-256 encrypted messaging.
 
-**Highlights:**
-- 🧵 C threaded server (pthreads) + enhanced process/IPC server (shmget, msg queues, semaphores)
-- 🔌 TCP/IP socket programming with robust multi-client concurrency
-- 🔐 Node.js web server: JWT auth, bcrypt passwords, AES-256 encrypted messaging
-- 💬 Chat rooms, private messaging, offline delivery & typing indicators
-- 🖼️ File/image uploads via Multer and cross-platform Makefile build
+- 🧵 C threaded + process/IPC servers (shmget, msg queues, semaphores)
+- 🔐 JWT auth, bcrypt passwords & AES-256 message encryption
+- 💬 Chat rooms, private messages, offline delivery & file uploads
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Netchat)
 
