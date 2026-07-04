@@ -1,0 +1,419 @@
+# Portfolio Details Source of Truth
+
+This file contains the detailed, ATS-optimized, and narrative-driven content for Avishkar's portfolio and resume.
+
+## Experience (Detailed & Quantified)
+
+### 1. CatchUpX (Pre-launch EdTech Startup)
+**Title:** Technical Co-Founder & Technical Lead
+**Duration:** Jan 2026 – Present | Remote
+**Tech Stack:** Python, FastAPI, Next.js, TypeScript, PostgreSQL, AWS App Runner, Groq LLM API, Docker, SQLAlchemy, JWT
+
+**Project Overview:**
+An AI-powered EdTech platform functioning as a multi-tenant School Management System (SMS) integrated with an adaptive learning gap diagnostic engine.
+
+**Key Features:**
+* Real-time learning gap diagnostic engine using Groq LLM API.
+* Multi-tenant role-based access for students, teachers, parents, and admins.
+* Gamification engine with live classroom polling and real-time exam prediction.
+* Zero-latency AI interactions forcing deterministic JSON outputs for automated study plan generation.
+* Decoupled architecture with Next.js frontend and containerized FastAPI backend.
+
+**Technical Implementation:**
+* Architected strict multi-tenant isolation via `school_id` scoping at the database query level with SQLAlchemy middlewares.
+* Migrated AI inference from AWS Bedrock to Groq API for sub-second responses and enforced structural templates (JSON mode).
+* Configured robust backend security: custom JWT, SlowAPI rate limiting, payload limits (10MB max), and CORS protections.
+* Designed a 19+ table PostgreSQL schema covering gamification, learning profiles, live classrooms, and report cards.
+* Deployed via AWS App Runner using Docker and Amazon ECR for zero-downtime microservice orchestration.
+
+**Resume Bullet Points:**
+* Architected and deployed an AI-driven EdTech platform using Next.js and FastAPI, supporting multi-tenant role-based access for students, teachers, and parents.
+* Engineered a real-time learning gap diagnostic engine integrating Groq LLM API, reducing cognitive analysis latency to sub-seconds while enforcing strict JSON schemas for automated study plan generation.
+* Designed a highly relational PostgreSQL database schema with 19+ tables using SQLAlchemy, optimizing for multi-tenancy isolation, gamification tracking, and predictive exam analytics.
+* Deployed scalable backend microservices on AWS App Runner via Docker ECR, implementing strict security middlewares, rate-limiting (SlowAPI), and custom JWT authentication.
+
+**Key Metrics:**
+* 2 schools piloted
+* Sub-second AI inference latency achieved with Groq
+* 19+ relational tables managed
+
+**Links:**
+* **LinkedIn:** https://www.linkedin.com/company/catchupx/about/?viewAsMember=true
+* **Live Site:** https://CatchupX.in
+* **GitHub Repository:** https://github.com/GhostRiderGaming/CatchupXV1.git
+
+---
+
+### 2. Heapify Global Community
+**Title:** Co-Founder & Tech Lead
+**Duration:** June 2026 – Present | International
+**Tech Stack:** Node.js, React, TypeScript, Vercel, GitHub Actions, Discord API
+
+**Responsibilities & Key Contributions:**
+* Leading technical strategy and platform development.
+* Managing a team responsible for website development, automation, and community infrastructure.
+* Organizing hackathons, AI workshops, blockchain events, and developer sessions.
+* Building partnerships with universities, developer communities, and industry organizations.
+* Designing scalable systems for registrations, participant management, and event operations.
+
+**Highlights:**
+* Co-founded an international developer community.
+* Led technical architecture and website development.
+* Organized AI and developer-focused events.
+* Built partnerships with industry and academic communities.
+* Managing technical operations and community growth.
+
+**Key Metrics:**
+* 500+ community members
+* 10+ workshops conducted
+* 3+ hackathons organized
+* 5+ partnerships established
+
+**Links:**
+* **LinkedIn:** https://www.linkedin.com/in/heapify-global-community-7bb767414/
+
+---
+
+### 3. Capabl
+**Title:** AI Engineering Intern
+**Duration:** Feb 2026 – Jun 2026 | Remote
+**Tech Stack:** Python, TypeScript, PostgreSQL, RAG Pipelines, LLMs, REST APIs
+
+**Responsibilities & Key Contributions:**
+* Built AI applications using LLMs and prompt engineering.
+* Developed backend APIs for AI workflows.
+* Worked on RAG pipelines and vector search systems.
+* Optimized inference pipelines for performance and reliability.
+* Collaborated with engineers to deploy scalable AI solutions.
+* Developed a RAG-based AI platform using TypeScript, Python, PostgreSQL, and LLM-powered retrieval pipelines.
+* Designed multi-tool agent workflows integrating semantic retrieval, context assembly, and AI-driven response generation.
+* Built backend orchestration APIs and database pipelines through cross-functional collaboration and communication.
+
+**Highlights:**
+* Developed production AI applications.
+* Built REST APIs and backend services.
+* Worked with LLMs and Retrieval-Augmented Generation.
+* Improved inference speed and system reliability.
+
+**Key Metrics:**
+* 4+ internal orchestration APIs built
+* 3 key LLMs integrated (Llama-3, GPT, Claude class)
+* 50k+ vector embeddings processed
+
+**Links:**
+* **Live Prototype:** https://team-agent-wars-healthcare-monitori.vercel.app/
+* **GitHub Repository:** https://github.com/Avi007-debug/Team_Agent_Wars_Healthcare-Monitoring-AI-Agent
+
+---
+
+### 4. Google Developer Groups (GDG) RVCE
+**Title:** Junior Core Team Member
+**Duration:** May 2025 – Present | Bangalore, India
+**Tech Stack:** Event Execution, Project Management, Leadership, Technical Operations
+
+**Responsibilities & Key Contributions:**
+* Organized and coordinated large-scale hackathons, workshops, and technical events.
+* Worked with cross-functional student teams to improve event execution and participant experience.
+* Managed communication with participants, mentors, judges, and sponsors during community events.
+* Helped build a stronger developer ecosystem through technical sessions and community initiatives.
+* Contributed to planning and execution of AI, Cloud, and Software Engineering events.
+
+**Highlights:**
+* Junior Core Team Member at GDG RVCE.
+* Organized multiple developer events and hackathons.
+* Worked with industry speakers and community partners.
+* Improved leadership, communication, and project coordination skills.
+
+**Key Metrics:**
+* 800+ hackathon participants coordinated
+* 30+ finalist teams managed
+* 10+ technical events supported
+
+---
+
+## Education
+
+### 1. RV College of Engineering (RVCE)
+* **Degree:** Bachelor of Engineering in Computer Science and Engineering (Cyber Security)
+* **Duration:** 2024 – 2028
+* **Location:** Bangalore, India
+* **Current CGPA:** 9.70 (Top of Batch)
+
+### 2. GT School and Junior College
+* **Board:** HSC Board
+* **Stream:** Science (PCM+CS), Grade 12
+* **Duration:** 2022 – 2024
+* **Location:** Pune, India
+* **Score:** 89%
+* **Competitive Exams:**
+  * AIR 15,207 — JEE Advanced 2024
+  * 99.002 percentile — MHT-CET 2024
+  * AIR 779 — COMEDK UGET 2024
+
+### 3. Pawar Public School
+* **Stream:** 10th CBSE Board
+* **Duration:** 2020 – 2022
+* **Location:** Nanded City, Pune, Maharashtra
+* **Score:** 97.6%
+
+---
+
+## Projects (Ordered by Overall Ranking, Excluding Experience Duplicates)
+
+### 1. HyperAD (Cybersecurity + AI)
+* **Description:** Built a graph-intelligence security platform to analyze Active Directory attack paths using temporal hypergraphs and risk reasoning.
+* **Tech Stack:** Python, TypeScript, CSS, Temporal Hypergraphs, Graph Algorithms
+* **Key Features:**
+  * Active Directory security graph modeling.
+  * Temporal hypergraph-based attack path analysis.
+  * Risk scoring and prioritization insights.
+  * Actionable remediation recommendations.
+* **Technical Implementation:**
+  * Python analytics core for graph algorithms and temporal reasoning.
+  * TypeScript interface/services for security workflow visualization.
+  * Ingestion-to-findings processing pipeline.
+* **Resume Bullet Points:**
+  * Developed an AD security analysis platform that models enterprise identity relationships as temporal hypergraphs.
+  * Implemented graph-based attack path detection and risk prioritization for proactive defense planning.
+  * Designed an AI-assisted reasoning layer to convert graph findings into actionable remediation insights.
+  * Built full-stack workflows enabling security analysts to investigate, interpret, and respond to privilege escalation risks.
+* **Impact / Complexity:** Graph algorithms, temporal modeling, cyber-defense analytics, AI-assisted reasoning.
+* **GitHub Link:** https://github.com/Avi007-debug/HyperAD
+
+### 2. SmartStay (SDE + AI)
+* **Description:** End-to-end PG accommodation platform featuring discovery, management, and AI recommendations.
+* **Tech Stack:** React 18, TypeScript, Flask, Supabase, Groq AI (Llama 3.1), Supabase Real-time
+* **Key Features:**
+  * Personalized PG recommendation workflows using AI-assisted ranking.
+  * Role-based dashboards for Users, Owners, and Admins.
+  * Anonymous user-owner chat with real-time message updates.
+  * AI features: sentiment analysis, hidden-charge detector, travel-time estimator, listing description generator, chatbot.
+* **Technical Implementation:**
+  * Decoupled frontend (React) and backend API (Flask) hosted on Vercel and Render.
+  * Supabase client integration for auth, real-time messaging, and storage.
+  * Groq AI inference pipelines composing structured queries.
+* **Resume Bullet Points:**
+  * Developed a production-grade full-stack accommodation platform using React + TypeScript frontend and Python Flask backend, integrating Supabase PostgreSQL/Auth/Realtime for scalable multi-role workflows.
+  * Implemented AI-powered recommendation and analysis modules (personalization, sentiment, hidden-charge detection, text generation) by orchestrating backend inference pipelines and API-driven feature delivery.
+  * Designed a real-time architecture for anonymous chat and smart notifications using Supabase subscriptions, improving user-owner interaction speed and listing engagement responsiveness.
+  * Built secure role-based dashboards (User/Owner/Admin) with DB-level RLS, verification pipelines, and listing moderation capabilities.
+* **Impact / Complexity:** AI/LLM integrations, real-time subscriptions, database-native security (RLS), multi-role authorization.
+* **GitHub Link:** https://github.com/Avi007-debug/SmartStay
+* **Live Link:** https://smartstay-ruddy.vercel.app/
+
+### 3. SmartSecure IDS (Cybersecurity)
+* **Description:** Real-time multi-stage ML-powered Intrusion Detection System with Scapy sniffing and SHAP explainability.
+* **Tech Stack:** Python, FastAPI, Scapy, Scikit-Learn, SHAP, React
+* **Key Features:**
+  * Two-stage detection: high-speed normal filter + specialized attack classifiers.
+  * Real-time packet sniffing with flow aggregation and feature extraction.
+  * SHAP explainability, confidence scoring, and AI advisor with mitigation suggestions.
+* **Technical Implementation:**
+  * Scapy sniffer aggregates bidirectional flows (30s windows) and extracts CICIDS features.
+  * FastAPI serves detection endpoints and pushes alerts to React dashboard.
+* **Resume Bullet Points:**
+  * Developed a FastAPI-based real-time IDS using Scapy for packet capture, flow aggregation, and multi-stage ML classifiers.
+  * Built ensemble models (Random Forest / Gradient Boosting), implemented SHAP explainability and context-aware mitigation advisor.
+  * Delivered interactive React dashboard for live threat feed, severity visualization, and historical threat intelligence.
+* **Impact / Complexity:** Real-time packet processing, ML model deployment, feature engineering, model explainability.
+* **GitHub Link:** https://github.com/Avi007-debug/SmartSecure
+
+### 4. Master Algorithm (SDE)
+* **Description:** A high-performance, interactive algorithm visualization platform bridging a React frontend with a pure C execution engine.
+* **Tech Stack:** React, Node.js, Express, C, Docker, Tailwind CSS, Framer Motion, Vercel, Render
+* **Key Features:**
+  * Exactly 100 algorithms with step-by-step visualizations and playback controls.
+  * Interactive MCQ Guided Tutorials with Checkpoints.
+  * Interview Preparation Mode with timers and constraints.
+  * Automated complexity derivations, DAA Theory, and NP-Hard reductions.
+* **Technical Implementation:**
+  * Full-stack integration executing pure C compiled binaries securely via Node.js `child_process.exec`.
+  * Advanced JSON tracing via `stdout` from C memory to a Framer Motion UI.
+  * Rigorous security sandbox: Regex allow-listing, strict timeouts, buffer size maximums to prevent command injection.
+* **Resume Bullet Points:**
+  * Engineered a full-stack algorithm visualization platform utilizing a Node.js/Express API to safely spawn and trace 100 compiled C executables via inter-process communication.
+  * Developed a dynamic React/Vite frontend using Framer Motion to parse complex JSON execution traces into smooth, GPU-accelerated step-by-step visual animations.
+  * Implemented robust backend security protocols, including strict Regex input sanitization, max-buffer limits, and execution timeouts to prevent command injection and resource exhaustion attacks.
+  * Authored a comprehensive algorithmic database detailing asymptotic derivations, recurrence relations, and space complexity bounds for over 100 distinct algorithms.
+* **Impact / Complexity:** Engineered a custom IPC pipeline safely executing C binaries from Node.js, handling complex state tracing via stdout.
+* **GitHub Link:** https://github.com/Avi007-debug/Master_Algorithm
+* **Live Link:** https://master-algorithm.vercel.app/
+
+### 5. Sherlock-D (SDE)
+* **Description:** Secure hackathon operations platform for team formation, file submissions, and real-time rankings.
+* **Tech Stack:** React, TypeScript, FastAPI, PostgreSQL (Supabase), Supabase Auth, SlowAPI
+* **Key Features:**
+  * Advanced authentication flow (Email/password and Google OAuth) with profile redirection.
+  * Team management system (collision-safe alpha invite codes).
+  * Resilient file submissions (10MB datasets, 5MB docs) via Supabase and Google Drive API.
+  * Public dashboard & leaderboards with live countdown timers.
+* **Technical Implementation:**
+  * Decoupled client-server architecture utilizing React SPA and FastAPI backend.
+  * Database constraints enforced at DB-level via PostgreSQL triggers.
+  * Supabase JWT verification utilizing cached Supabase JWKS public keys in-memory.
+* **Resume Bullet Points:**
+  * Architected a full-stack hackathon management platform for participants and admins using React (TypeScript), FastAPI, and PostgreSQL (Supabase), automating team registration and live public leaderboards.
+  * Implemented a resilient submission pipeline with three-layer file validation, supporting datasets up to 10MB via dual storage backends (Supabase Storage and Google Drive API), ensuring secure data collection.
+  * Designed a secure PostgreSQL database schema with comprehensive Row Level Security (RLS) policies and custom triggers to enforce core business logic (e.g., maximum team size limits) directly at the data layer, reducing backend latency.
+  * Optimized application security by configuring strict CORS origins, SlowAPI rate limiting (20 req/min for auth), injection-safe security_barrier database views, and automated service-role isolation for administrative endpoints.
+* **Impact / Complexity:** Enforces constraints at the database level (triggers/RLS), role escalation prevention, security_barrier views.
+* **GitHub Link:** https://github.com/Google-Developer-Groups-RVCE/Sherlock-D
+
+### 6. TrustCircle (Mobile + AI)
+* **Description:** Proactive relationship wellness app that detects early signs of relationship erosion and recommends preventive actions.
+* **Tech Stack:** Dart, Flutter ecosystem, C++/CMake, Swift, HTML/C
+* **Key Features:**
+  * AI-assisted relationship health monitoring.
+  * Proactive intervention and alerting workflows.
+  * Cross-platform mobile delivery with native Android/iOS integrations.
+* **Technical Implementation:**
+  * Flutter-first mobile architecture with native bridges.
+  * In-app signal collection and scoring for relationship health insights.
+* **Resume Bullet Points:**
+  * Developed a cross-platform AI-powered mobile app to proactively assess relationship health and prevent silent degradation.
+  * Designed an insight pipeline that converts behavioral patterns into actionable interventions.
+  * Implemented modular Flutter architecture with native Android/iOS integration for extensibility.
+  * Built a prevention-first UX that increased the practical value of continuous relationship tracking.
+* **Impact / Complexity:** AI-driven behavioral inference, predictive risk scoring, mobile-native interoperability.
+* **GitHub Link:** https://github.com/Avi007-debug/TrustCircle
+
+### 7. MoodVue (AI / Computer Vision)
+* **Description:** Real-time webcam video analyzer utilizing DeepFace and OpenCV to track emotions.
+* **Tech Stack:** Python, Flask, DeepFace, OpenCV, React, Supabase, Docker, Recharts
+* **Key Achievements:**
+  * Webcam face geometry tracking and emotion classification using DeepFace.
+  * Flask backend serving inference outputs, and React frontend showing Recharts analytics.
+* **Resume Bullet Points:**
+  * Built a real-time webcam session analyzer to detect face geometry and classify emotions (DeepFace) with low inference latency.
+  * Developed a Flask backend and React frontend dashboard featuring Recharts visualization for long-term mood history.
+  * Integrated Supabase for secure data storage of emotion logs, analytics records, and user session metadata.
+  * Leveraged Docker containerization to standardize deployment environments for the Python DeepFace dependencies.
+* **Impact / Complexity:** Real-time video frame inference, deep learning integration, web session containerization.
+* **GitHub Link:** https://github.com/Avi007-debug/MoodVue
+
+### 8. Perimeter Intrusion Detection (IoT + Cybersecurity)
+* **Description:** IoT-based perimeter monitoring solution to detect intrusions and trigger alerts.
+* **Tech Stack:** HTML, C++, Python, IoT Edge, Embedded Sensors
+* **Key Achievements:**
+  * C++ edge/embedded sensing logic for sensor event capture.
+  * Python control script and HTML dashboard interface for live visibility.
+* **Resume Bullet Points:**
+  * Built an IoT intrusion detection system integrating embedded sensing logic with application-layer monitoring.
+  * Implemented event-driven detection and alert workflows for improved physical security response.
+  * Designed cross-layer communication between device-side C++ components and Python control services.
+  * Developed a lightweight monitoring interface for real-time visibility of perimeter events.
+* **Impact / Complexity:** Hardware sensing integrations, edge logic optimization, cross-layer communications.
+* **GitHub Link:** https://github.com/Avi007-debug/Perimeter_Intrusion_Detection
+
+### 9. Urban Canopy Health Index (UCHI) (Computer Vision)
+* **Description:** Deterministic, RGB-based computer vision pipeline to compute Canopy Health Index.
+* **Tech Stack:** React, TypeScript, Flask, OpenCV, Leaflet Maps, GeoJSON
+* **Key Features:**
+  * HSV-based vegetation segmentation (CHI = 0.7*coverage + 0.3*greenness).
+  * Area-aware thresholds (city, campus, park) and temporal comparison.
+  * Interactive maps, color-graded CHI overlays, and GeoJSON exports.
+* **Technical Implementation:**
+  * Satellite/aerial RGB image processing (RGB -> HSV -> Segmentation -> CHI).
+  * Flask serving image uploads, React Leaflet rendering maps.
+* **Resume Bullet Points:**
+  * Designed and implemented a deterministic CV pipeline (HSV segmentation, pixel-based metrics) to compute an interpretable Canopy Health Index and store results in Supabase.
+  * Built interactive React dashboards and Leaflet visualizations for region comparisons, temporal trends, and GeoJSON overlays.
+  * Automated batch processing and API endpoints for image upload, CHI computation, and data exports.
+* **Impact / Complexity:** Geospatial mapping, deterministic computer vision, satellite image batching.
+* **GitHub Link:** https://github.com/Avi007-debug/Urban_Canopy_Health_Index_UCHI
+* **Live Link:** https://dynamicurbancanopyhealthindex.vercel.app/
+
+### 10. AegisShield (Security)
+* **Description:** Security-focused intelligence platform combining web engineering and AI services for threat workflows.
+* **Tech Stack:** TypeScript, Python, CSS, Threat Intelligence
+* **Key Features:**
+  * Ingestion and analysis flow feeding security dashboards.
+  * Python AI modules for advanced threat parsing.
+* **Technical Implementation:**
+  * TypeScript client-server layer for UI dashboard.
+  * Python analytics modules converting raw signals to security intel.
+* **Resume Bullet Points:**
+  * Developed an AI-enabled security platform that transforms raw signals into actionable threat intelligence.
+  * Designed a modular TypeScript/Python architecture for rapid feature iteration and maintainability.
+  * Implemented integrated analysis workflows that connect backend intelligence to user-facing dashboards.
+  * Built scalable foundations for future expansion into advanced detection and risk prioritization.
+* **Impact / Complexity:** Telemetry ingestion pipelines, cross-language design, threat analytics.
+* **GitHub Link:** https://github.com/Avi007-debug/AegisShield
+
+### 11. Fuel Tracker (Mobile)
+* **Description:** Fuel management mobile app to track consumption, costs, and efficiency.
+* **Tech Stack:** Dart, Flutter, HTML, Mobile Analytics
+* **Key Features:**
+  * Centralized logging and cost trends.
+  * Trend-based analytics to identify vehicle inefficiencies.
+* **Technical Implementation:**
+  * Dart/Flutter mobile components compiling to native binaries.
+  * Local DB tracking user fill-up records and efficiency formulas.
+* **Resume Bullet Points:**
+  * Developed a fuel tracking application that centralizes consumption and cost data for better decision-making.
+  * Implemented trend-based analytics to help users identify inefficiencies and optimize fuel spend.
+  * Designed intuitive logging and history workflows to improve data quality and retention.
+  * Built cross-platform-ready foundations using Dart with native build integrations.
+* **Impact / Complexity:** Personal telemetry data, local database transactions, mobile build integration.
+* **GitHub Link:** https://github.com/Avi007-debug/Fuel-Tracker-App
+
+### 12. Phantom Mode (AI)
+* **Description:** Proactive smartphone context intelligence engine predicting user intent and pre-configuring behaviors.
+* **Tech Stack:** JavaScript, Python, Intent Prediction, Context Learning
+* **Key Features:**
+  * Learns pattern recognition from behavioral context.
+  * Intent workflows automates device profiles.
+* **Technical Implementation:**
+  * JS orchestration client, Python predictive modules, rule engine for device profiles.
+* **Resume Bullet Points:**
+  * Developed a proactive smartphone intelligence engine that anticipates user needs from behavioral context.
+  * Implemented intent prediction workflows to automate device preparation ahead of time-sensitive events.
+  * Designed a cross-language architecture combining JavaScript orchestration with Python AI modules.
+  * Built adaptive personalization loops that continuously refine context-aware automation quality.
+* **Impact / Complexity:** Predictive AI, context-aware automation, human-behavior modeling, intelligent orchestration.
+* **GitHub Link:** https://github.com/Avi007-debug/Phantom_Mode_PrismOpenClaw
+
+### 13. NetChat (Networking / Systems)
+* **Description:** Concurrency-focused chat application demonstrating multi-threaded/process UNIX C servers and WebSockets.
+* **Tech Stack:** C (POSIX), Node.js, Socket.IO, JWT, AES Encryption
+* **Key Features:**
+  * Multi-threaded (pthreads) and multi-process C servers demonstrating shared memory, queues, and semaphores.
+  * Node.js web server with WebSockets (Socket.IO), JWT auth, and AES-256 encrypted chat.
+* **Technical Implementation:**
+  * Low-level UNIX socket programming.
+  * Express + Socket.IO server, client-side AES decryption.
+* **Resume Bullet Points:**
+  * Implemented multi-threaded and multi-process C servers demonstrating pthreads, shared memory, message queues, and semaphores for IPC and concurrency.
+  * Built a modern Node.js/Socket.IO web server with JWT authentication, AES message encryption, and file upload support.
+  * Integrated persistent storage and logging mechanisms for user auth and message history.
+* **Impact / Complexity:** UNIX sockets, IPC concurrency, cryptography encryption, WebSocket connections.
+* **GitHub Link:** https://github.com/Avi007-debug/Netchat
+
+### 14. SmartDrop (IoT)
+* **Description:** Prototype IoT irrigation system combining sensor data, ML models, and microcontroller firmware.
+* **Tech Stack:** Arduino, C++, Python, IoT, ML, scikit-learn
+* **Key Features:**
+  * Arduino/ESP firmware for soil-moisture sensor triggers and relays.
+  * Python gateway client running scikit-learn models from serialized .pkl artifacts.
+* **Resume Bullet Points:**
+  * Developed microcontroller firmware (Arduino/ESP) interfacing soil-moisture sensors with centralized relays.
+  * Implemented a gateway ML client loading serialized model artifacts (.pkl) for irrigation scheduling.
+  * Logged field data records and created dynamic visualization dashboards to assess water saving thresholds.
+* **Impact / Complexity:** Microcontroller firmware, ML model serialization (joblib/pickle), edge irrigation control.
+* **GitHub Link:** https://github.com/Avi007-debug/SmartDrop-AI-Driven-Irrigation
+
+### 15. Chyrp Rebuild (Full-Stack)
+* **Description:** Rebuilt Chyrp blog engine as modern full-stack application supporting multiple media types.
+* **Tech Stack:** React, Vite, Flask, PostgreSQL, Supabase, JWT Auth, Gunicorn
+* **Key Features:**
+  * Multi-format content ("Feathers"): text, photo, audio, video.
+  * Comments, tags, caching, sitemaps.
+  * Supabase storage bucket uploads.
+* **Technical Implementation:**
+  * Decoupled frontend on Vercel, Flask API on Render, Supabase bucket integrations.
+* **Resume Bullet Points:**
+  * Rebuilt a legacy blog engine into a modern React + Flask full-stack platform with PostgreSQL and Supabase media storage.
+  * Implemented modular content types (text, photo, audio, video) and extensions (comments, caching, tags) to maintain Chyrp's extensibility.
+  * Designed REST API with JWT auth and integrated cloud hosting pipelines (Vercel frontend, Render backend).
+* **Impact / Complexity:** Decoupled deployment pipelines, framework modernization, asset storage management, JWT authentication.
+* **GitHub Link:** https://github.com/Avi007-debug/chyrp-rebuild-clonefest

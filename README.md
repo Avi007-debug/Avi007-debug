@@ -27,11 +27,18 @@
 name: Avishkar More
 located_in: Bangalore, India
 education: Cybersecurity Engineering @ RVCE
-current_focus:
+cgpa: 9.70 (Top of Batch)
+current_roles:
+  - Technical Co-Founder @ CatchUpX
+  - Co-Founder & Tech Lead @ Heapify Global
+  - Junior Core Team @ GDG RVCE
+previous_experience:
+  - AI Engineering Intern @ Capabl
+focus_areas:
   - AI/ML Systems & Computer Vision
-  - Embedded Systems & IoT
-  - Network Security & Threat Detection
+  - Cybersecurity & Threat Detection
   - Full-Stack Development
+  - IoT & Embedded Systems
 ```
 
 **💡 Philosophy:**
@@ -47,9 +54,10 @@ current_focus:
 </p>
 
 **⚡ Top Projects:**
-- 🔐 SmartSecure — Multi-stage ML IDS
+- 🔐 HyperAD — Graph Intelligence Security Platform
 - 🏨 SmartStay — AI-Powered PG Platform
-- 😊 MoodVue — Real-Time Emotion Detection
+- 🔒 SmartSecure — Multi-stage ML IDS
+- 🌐 Heapify Global — Developer Community
 
 </td>
 </tr>
@@ -58,12 +66,12 @@ current_focus:
 <!-- Current Projects Carousel -->
 <h3 align="center">⚡ Featured Projects</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/🔐-SmartSecure-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐-HyperAD-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🏨-SmartStay-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌳-UCHI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔒-SmartSecure-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🎓-CatchUpX-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/😊-MoodVue-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💬-NetChat-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻-Master_Algorithm-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐-Heapify-blueviolet?style=for-the-badge"/>
 </p>
 
 </div>
@@ -85,18 +93,19 @@ current_focus:
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 SmartSecure
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Scapy-4ECDC4?style=flat-square"/>
+### 🔐 HyperAD
+<img src="https://img.shields.io/badge/Temporal%20Hypergraphs-FF6B6B?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Graph%20Algorithms-4ECDC4?style=flat-square"/> <img src="https://img.shields.io/badge/AI%20Reasoning-90EE90?style=flat-square"/>
 
-Real-time multi-stage ML IDS — Scapy flow capture → two-stage Random Forest → SHAP explainability → live React alert dashboard.
+Graph-intelligence security platform analyzing Active Directory attack paths using temporal hypergraphs and AI-assisted risk reasoning.
 
-- 🌊 Bidirectional flow aggregation + CICIDS-2017 feature extraction
-- 🤖 Two-stage classifiers with SHAP mitigation advisor
-- ⚠️ Built-in attack simulators (DoS, portscan, bruteforce)
+- 🧠 Temporal hypergraph-based attack path detection
+- 🎯 Risk scoring and prioritization for proactive defense
+- 🔍 AI-assisted reasoning for actionable remediation insights
+- 🛡️ Enterprise identity relationship modeling
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/SmartSecure)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/HyperAD)
 
 </td>
 <td width="50%" valign="top">
@@ -104,15 +113,16 @@ Real-time multi-stage ML IDS — Scapy flow capture → two-stage Random Forest 
 ### 🏨 SmartStay
 <img src="https://img.shields.io/badge/Groq%20AI-llama--3.1-A8E6CF?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-Realtime-FFD93D?style=flat-square&logo=supabase&logoColor=white"/>
 
-AI-powered PG platform with 6 AI features, anonymous real-time chat, multi-role dashboards and Supabase RLS.
+Full-stack PG accommodation platform with AI recommendations, sentiment analysis, real-time chat, and multi-role dashboards.
 
-- 🤖 6 AI modules: recommendations, sentiment, hidden-charges, chatbot & more
-- 💬 Anonymous real-time chat with price/vacancy alert notifications
-- 🔐 Row-Level Security with User / Owner / Admin roles
+- 🤖 6 AI modules: personalization, sentiment, hidden-charge detection, travel-time, chatbot & description generator
+- 💬 Anonymous real-time chat using Supabase subscriptions
+- 🔐 Database-native RLS security with User/Owner/Admin roles
+- ⚡ React + TypeScript frontend with Flask backend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/SmartStay)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/SmartStay) [![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://smartstay-ruddy.vercel.app/)
 
 </td>
 </tr>
@@ -120,34 +130,37 @@ AI-powered PG platform with 6 AI features, anonymous real-time chat, multi-role 
 <tr>
 <td width="50%" valign="top">
 
-### 🌳 UCHI
-<img src="https://img.shields.io/badge/OpenCV-HSV%20CV-90EE90?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-GeoJSON-87CEEB?style=flat-square"/>
+### 🔒 SmartSecure IDS
+<img src="https://img.shields.io/badge/Scapy-4ECDC4?style=flat-square"/> <img src="https://img.shields.io/badge/SHAP-FF8C00?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
-Deterministic RGB CV pipeline computing a Canopy Health Index (CHI = 0.7×coverage + 0.3×greenness) visualized on interactive Leaflet maps.
+Real-time multi-stage ML-powered Intrusion Detection System with Scapy sniffing and SHAP explainability.
 
-- 🎨 Training-free HSV segmentation with area-aware thresholds
-- 🗺️ GeoJSON boundaries + color-graded CHI overlays
-- 🔄 Batch processing with CSV/JSON export API
+- 🌊 Two-stage detection: high-speed normal filter + specialized attack classifiers
+- 📊 Real-time packet sniffing with flow aggregation and CICIDS feature extraction
+- 🔍 SHAP explainability, confidence scoring, and AI mitigation advisor
+- ⚡ FastAPI backend with live React dashboard
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Scapy](https://img.shields.io/badge/Scapy-4ECDC4?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Urban_Canopy_Health_Index_UCHI)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/SmartSecure)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 CatchUpX
-<img src="https://img.shields.io/badge/AWS%20Bedrock-Titan-FF8B94?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-Serverless-6BCF7F?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq%20API-FF6B6B?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Multi--Tenant-6BCF7F?style=flat-square"/>
 
-Serverless AI study planner — diagnoses gaps via quizzes (7 grades × 3 subjects) then generates lessons & 5-day plans via AWS Bedrock.
+AI-powered EdTech platform with multi-tenant School Management System and adaptive learning gap diagnostic engine.
 
-- 📝 Per-concept gap analysis across grade levels
-- 🤖 Bedrock-generated lessons, examples & practice questions
-- ⚡ React → API Gateway → Lambda → Bedrock pipeline
+- 🧠 Real-time learning gap diagnostics using Groq LLM API (sub-second responses)
+- 🏫 Multi-tenant role-based access for students, teachers, parents, and admins
+- 🎮 Gamification engine with live classroom polling and exam prediction
+- 📊 19+ table PostgreSQL schema with SQLAlchemy multi-tenancy isolation
+- ☁️ Deployed on AWS App Runner with Docker and ECR
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/catchupx)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/GhostRiderGaming/CatchupXV1.git) [![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://CatchupX.in)
 
 </td>
 </tr>
@@ -155,34 +168,37 @@ Serverless AI study planner — diagnoses gaps via quizzes (7 grades × 3 subjec
 <tr>
 <td width="50%" valign="top">
 
-### 😊 MoodVue
-<img src="https://img.shields.io/badge/DeepFace-OpenCV-FF6B6B?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Real--Time-Sessions-4ECDC4?style=flat-square"/>
+### 💻 Master Algorithm
+<img src="https://img.shields.io/badge/C%20Execution-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js%20IPC-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Framer%20Motion-FF6B6B?style=flat-square"/>
 
-Real-time webcam emotion detection using DeepFace + OpenCV with session mood analytics, Recharts visualizations and AI wellness tips.
+Interactive algorithm visualization platform with 100 algorithms featuring step-by-step playback, C execution engine, and GPU-accelerated animations.
 
-- 📹 Per-frame emotion labels aggregated into session trend stats
-- 📊 Mood history charts & AI-powered relaxation suggestions
-- 🐳 Dockerized services deployed on Render / Vercel
+- 🎨 Exactly 100 algorithms with step-by-step visualizations and playback controls
+- 🔧 Pure C compiled binaries executed via Node.js with JSON tracing
+- 🎓 MCQ Guided Tutorials, Interview Prep Mode, and complexity derivations
+- 🔒 Rigorous security: regex allow-listing, strict timeouts, buffer limits
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/MoodVue)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Master_Algorithm) [![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://master-algorithm.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 NetChat
-<img src="https://img.shields.io/badge/C-POSIX%20IPC-A8E6CF?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-JWT%20%2B%20AES--256-FFD93D?style=flat-square&logo=socketdotio&logoColor=white"/>
+### 🎯 Sherlock-D
+<img src="https://img.shields.io/badge/PostgreSQL%20RLS-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
-Multi-mode chat: C servers using pthreads/IPC + a Node.js/Socket.IO web server with JWT auth and AES-256 encrypted messaging.
+Secure hackathon operations platform for team formation, file submissions, and real-time rankings built for GDG RVCE.
 
-- 🧵 C threaded + process/IPC servers (shmget, msg queues, semaphores)
-- 🔐 JWT auth, bcrypt passwords & AES-256 message encryption
-- 💬 Chat rooms, private messages, offline delivery & file uploads
+- 🔑 Advanced authentication (Email/password + Google OAuth) with profile redirection
+- 👥 Team management system with collision-safe alpha invite codes
+- 📁 Resilient file submissions (10MB datasets, 5MB docs) via dual storage backends
+- 🏆 Public dashboard & leaderboards with live countdown timers
+- 🔒 Database-level constraints with PostgreSQL triggers and RLS policies
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Netchat)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Google-Developer-Groups-RVCE/Sherlock-D)
 
 </td>
 </tr>
@@ -201,12 +217,16 @@ Multi-mode chat: C servers using pthreads/IPC + a Node.js/Socket.IO web server w
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Chyrp Rebuild](https://github.com/Avi007-debug/chyrp-rebuild-clonefest)** | Rebuilt legacy Chyrp blog engine into a modern React + Flask platform with PostgreSQL, JWT auth, extensions (comments, tags, caching) and Supabase media storage | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **[Master Algorithm](https://github.com/Avi007-debug/Master_Algorithm)** | Interactive visualization platform for 57 algorithms with step-by-step playback, speed control, C implementations compiled on Node.js backend and CI/CD pipeline | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **[PrepMate-AI](https://github.com/Avi007-debug/PrepMate-AI)** | AI-powered interview practice platform with NLP response evaluation, adaptive difficulty and personalized feedback | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[SmartDrop](https://github.com/Avi007-debug/SmartDrop-AI-Driven-Irrigation)** | IoT irrigation prototype: Arduino/ESP firmware + Python ML model artifacts (.pkl) for sensor-based automated irrigation control | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **[CivicEye](https://github.com/Avi007-debug/CivicEye)** | SIH 2025 civic-tech project for tracking and improving public service responsiveness | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **GoodGear** | Frontend-focused e-commerce UI project emphasizing component design and UX | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **[TrustCircle](https://github.com/Avi007-debug/TrustCircle)** | Proactive relationship wellness mobile app using AI-assisted health monitoring with cross-platform Flutter architecture and native Android/iOS integration | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **[MoodVue](https://github.com/Avi007-debug/MoodVue)** | Real-time webcam emotion analyzer using DeepFace + OpenCV with session mood analytics, Recharts visualizations and AI wellness suggestions | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **[Perimeter Intrusion Detection](https://github.com/Avi007-debug/Perimeter_Intrusion_Detection)** | IoT-based perimeter monitoring solution with C++ edge sensing logic, Python control scripts and HTML dashboard interface | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **[UCHI](https://github.com/Avi007-debug/Urban_Canopy_Health_Index_UCHI)** | Deterministic RGB CV pipeline computing Canopy Health Index with HSV segmentation, interactive Leaflet maps and GeoJSON overlays | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **[AegisShield](https://github.com/Avi007-debug/AegisShield)** | Security-focused threat intelligence platform with TypeScript/Python architecture combining web engineering and AI services | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **[NetChat](https://github.com/Avi007-debug/Netchat)** | Concurrency-focused chat with C pthreads/IPC servers + Node.js/Socket.IO web server with JWT auth and AES-256 encryption | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **[SmartDrop](https://github.com/Avi007-debug/SmartDrop-AI-Driven-Irrigation)** | IoT irrigation system with Arduino/ESP firmware interfacing soil-moisture sensors and Python ML client with serialized model artifacts | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **[Chyrp Rebuild](https://github.com/Avi007-debug/chyrp-rebuild-clonefest)** | Rebuilt legacy blog engine into modern full-stack platform with React, Flask, PostgreSQL, JWT auth and Supabase media storage | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **[Fuel Tracker](https://github.com/Avi007-debug/Fuel-Tracker-App)** | Mobile fuel management app tracking consumption, costs, and efficiency with trend-based analytics using Dart/Flutter | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **[Phantom Mode](https://github.com/Avi007-debug/Phantom_Mode_PrismOpenClaw)** | Proactive smartphone intelligence engine predicting user intent with JavaScript orchestration and Python AI modules | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
