@@ -69,9 +69,9 @@ focus_areas:
   <img src="https://img.shields.io/badge/🔐-HyperAD-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🏨-SmartStay-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔒-SmartSecure-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎓-CatchUpX-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖-Healthcare_AI-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/💻-Master_Algorithm-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌐-Heapify-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯-Sherlock_D-blueviolet?style=for-the-badge"/>
 </p>
 
 </div>
@@ -147,20 +147,20 @@ Real-time multi-stage ML-powered Intrusion Detection System with Scapy sniffing 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 CatchUpX
-<img src="https://img.shields.io/badge/Groq%20API-FF6B6B?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Multi--Tenant-6BCF7F?style=flat-square"/>
+### 🤖 Healthcare AI Agent (RAG)
+<img src="https://img.shields.io/badge/RAG%20Pipeline-FF6B6B?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Multi--Agent-6BCF7F?style=flat-square"/> <img src="https://img.shields.io/badge/Vector%20Search-4ECDC4?style=flat-square"/>
 
-AI-powered EdTech platform with multi-tenant School Management System and adaptive learning gap diagnostic engine.
+RAG-based AI platform with multi-tool agent workflows integrating semantic retrieval, context assembly, and AI-driven response generation.
 
-- 🧠 Real-time learning gap diagnostics using Groq LLM API (sub-second responses)
-- 🏫 Multi-tenant role-based access for students, teachers, parents, and admins
-- 🎮 Gamification engine with live classroom polling and exam prediction
-- 📊 19+ table PostgreSQL schema with SQLAlchemy multi-tenancy isolation
-- ☁️ Deployed on AWS App Runner with Docker and ECR
+- 🔍 LLM-powered retrieval pipelines with 50k+ vector embeddings processed
+- 🛠️ Multi-tool agent orchestration for healthcare monitoring workflows
+- 🗄️ PostgreSQL + TypeScript backend with REST API orchestration
+- 🤖 3 key LLMs integrated (Llama-3, GPT, Claude class models)
+- ⚡ 4+ internal orchestration APIs for agent coordination
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/GhostRiderGaming/CatchupXV1.git) [![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://CatchupX.in)
+[![Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/Avi007-debug/Team_Agent_Wars_Healthcare-Monitoring-AI-Agent) [![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://team-agent-wars-healthcare-monitori.vercel.app/)
 
 </td>
 </tr>
@@ -242,39 +242,83 @@ Secure hackathon operations platform for team formation, file submissions, and r
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💻 Languages & Frameworks
+### 💻 Languages & Core CS
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PL/pgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-4ECDC4?style=for-the-badge&logo=object&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### 🤖 AI / ML & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6BCF7F?style=for-the-badge&logo=semantic-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFD93D?style=for-the-badge&logo=chatbot&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-4ECDC4?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-90EE90?style=for-the-badge&logo=natural-language&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepFace-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### 🔐 Cybersecurity & Systems
+### 🔐 Cybersecurity & Network Tools
 
 <p>
 <img src="https://img.shields.io/badge/Network_Security-DC143C?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft-active-directory&logoColor=white"/>
 <img src="https://img.shields.io/badge/IDS-FF4500?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat_Detection-DC143C?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket_Programming-0078D4?style=for-the-badge&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/Multithreading-6DB33F?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🌐 Web, Mobile & Backend
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
+
+### 🗄️ Databases, Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_App_Runner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ### ⚡ IoT & Embedded Systems
@@ -284,43 +328,6 @@ Secure hackathon operations platform for team formation, file submissions, and r
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 <img src="https://img.shields.io/badge/IoT-0066CC?style=for-the-badge&logo=internet-of-things&logoColor=white"/>
-</p>
-
-### 🌐 Web & Backend
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
