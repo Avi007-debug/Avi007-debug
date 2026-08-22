@@ -27,7 +27,7 @@
 name: Avishkar More
 located_in: Bangalore, India
 education: Cybersecurity Engineering @ RVCE (3rd Year)
-cgpa: 9.74 (Top of Batch)
+cgpa: 9.74 
 current_roles:
   - Co-Founder & Tech Lead @ Heapify Global
   - Development Lead @ GDG RVCE

@@ -138,7 +138,7 @@ An AI-powered EdTech platform functioning as a multi-tenant School Management Sy
 * **Year:** 3rd Year
 * **Duration:** 2024 – 2028
 * **Location:** Bangalore, India
-* **Current CGPA:** 9.74 (Top of Batch)
+* **Current CGPA:** 9.74
 
 ### 2. GT School and Junior College
 * **Board:** HSC Board
