@@ -26,13 +26,13 @@
 ```yaml
 name: Avishkar More
 located_in: Bangalore, India
-education: Cybersecurity Engineering @ RVCE
-cgpa: 9.70 (Top of Batch)
+education: Cybersecurity Engineering @ RVCE (3rd Year)
+cgpa: 9.74 (Top of Batch)
 current_roles:
-  - Technical Co-Founder @ CatchUpX
   - Co-Founder & Tech Lead @ Heapify Global
-  - Junior Core Team @ GDG RVCE
+  - Development Lead @ GDG RVCE
 previous_experience:
+  - Technical Co-Founder @ CatchUpX
   - AI Engineering Intern @ Capabl
 focus_areas:
   - AI/ML Systems & Computer Vision

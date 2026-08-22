@@ -4,9 +4,39 @@ This file contains the detailed, ATS-optimized, and narrative-driven content for
 
 ## Experience (Detailed & Quantified)
 
-### 1. CatchUpX (Pre-launch EdTech Startup)
+### 1. Heapify Global Community
+**Title:** Co-Founder & Tech Lead
+**Duration:** June 2026 – Present | International
+**Tech Stack:** Node.js, React, TypeScript, Vercel, GitHub Actions, Discord API
+
+**Responsibilities & Key Contributions:**
+* Leading technical strategy and platform development.
+* Managing a team responsible for website development, automation, and community infrastructure.
+* Organizing hackathons, AI workshops, blockchain events, and developer sessions.
+* Building partnerships with universities, developer communities, and industry organizations.
+* Designing scalable systems for registrations, participant management, and event operations.
+
+**Highlights:**
+* Co-founded an international developer community.
+* Led technical architecture and website development.
+* Organized AI and developer-focused events.
+* Built partnerships with industry and academic communities.
+* Managing technical operations and community growth.
+
+**Key Metrics:**
+* 500+ community members
+* 10+ workshops conducted
+* 3+ hackathons organized
+* 5+ partnerships established
+
+**Links:**
+* **LinkedIn:** https://www.linkedin.com/in/heapify-global-community-7bb767414/
+
+---
+
+### 2. CatchUpX (Pre-launch EdTech Startup)
 **Title:** Technical Co-Founder & Technical Lead
-**Duration:** Jan 2026 – Present | Remote
+**Duration:** Jan 2026 – Aug 2026 | Remote
 **Tech Stack:** Python, FastAPI, Next.js, TypeScript, PostgreSQL, AWS App Runner, Groq LLM API, Docker, SQLAlchemy, JWT
 
 **Project Overview:**
@@ -44,36 +74,6 @@ An AI-powered EdTech platform functioning as a multi-tenant School Management Sy
 
 ---
 
-### 2. Heapify Global Community
-**Title:** Co-Founder & Tech Lead
-**Duration:** June 2026 – Present | International
-**Tech Stack:** Node.js, React, TypeScript, Vercel, GitHub Actions, Discord API
-
-**Responsibilities & Key Contributions:**
-* Leading technical strategy and platform development.
-* Managing a team responsible for website development, automation, and community infrastructure.
-* Organizing hackathons, AI workshops, blockchain events, and developer sessions.
-* Building partnerships with universities, developer communities, and industry organizations.
-* Designing scalable systems for registrations, participant management, and event operations.
-
-**Highlights:**
-* Co-founded an international developer community.
-* Led technical architecture and website development.
-* Organized AI and developer-focused events.
-* Built partnerships with industry and academic communities.
-* Managing technical operations and community growth.
-
-**Key Metrics:**
-* 500+ community members
-* 10+ workshops conducted
-* 3+ hackathons organized
-* 5+ partnerships established
-
-**Links:**
-* **LinkedIn:** https://www.linkedin.com/in/heapify-global-community-7bb767414/
-
----
-
 ### 3. Capabl
 **Title:** AI Engineering Intern
 **Duration:** Feb 2026 – Jun 2026 | Remote
@@ -107,7 +107,7 @@ An AI-powered EdTech platform functioning as a multi-tenant School Management Sy
 ---
 
 ### 4. Google Developer Groups (GDG) RVCE
-**Title:** Junior Core Team Member
+**Title:** Development Lead
 **Duration:** May 2025 – Present | Bangalore, India
 **Tech Stack:** Event Execution, Project Management, Leadership, Technical Operations
 
@@ -119,7 +119,7 @@ An AI-powered EdTech platform functioning as a multi-tenant School Management Sy
 * Contributed to planning and execution of AI, Cloud, and Software Engineering events.
 
 **Highlights:**
-* Junior Core Team Member at GDG RVCE.
+* Development Lead at GDG RVCE.
 * Organized multiple developer events and hackathons.
 * Worked with industry speakers and community partners.
 * Improved leadership, communication, and project coordination skills.
@@ -135,9 +135,10 @@ An AI-powered EdTech platform functioning as a multi-tenant School Management Sy
 
 ### 1. RV College of Engineering (RVCE)
 * **Degree:** Bachelor of Engineering in Computer Science and Engineering (Cyber Security)
+* **Year:** 3rd Year
 * **Duration:** 2024 – 2028
 * **Location:** Bangalore, India
-* **Current CGPA:** 9.70 (Top of Batch)
+* **Current CGPA:** 9.74 (Top of Batch)
 
 ### 2. GT School and Junior College
 * **Board:** HSC Board
